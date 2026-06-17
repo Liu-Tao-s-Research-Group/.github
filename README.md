@@ -1,2 +1,2 @@
-# .github
-Home Introduction
+## Research Overview
+Our research group sits at the intersection of environmental microbiology and environmental engineering. Our research focuses on discovering novel microorganisms and translating newly identified microbial metabolic pathways into practical engineering applications. Specifically, we develop relevant technologies for wastewater and waste sludge treatment, alongside biogas and syngas upgrading, with the ultimate goal of advancing sustainable environmental remediation and management strategies.
